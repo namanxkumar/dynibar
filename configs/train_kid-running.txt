@@ -1,8 +1,8 @@
 expname = kid-running-test
 
-rootdir = /home/zhengqili/dynibar
+rootdir = /content/dynibar
 
-folder_path = /home/zhengqili/release
+folder_path = /content/drive/My Drive/Colab Notebooks/dynibar/release
 
 no_reload = False
 render_stride = 1
