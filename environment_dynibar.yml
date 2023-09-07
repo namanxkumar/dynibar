@@ -16,6 +16,7 @@ dependencies:
     - opencv-python
     - torch_efficient_distloss
     - imageio==2.22.0
+    - pillow==8.3.2
     - tensorboard==2.10.0
     - scipy==1.9.1
     - timm==0.6.7
